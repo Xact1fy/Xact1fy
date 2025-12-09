@@ -22,7 +22,7 @@ The tools and environments I am most comfortable operating in:
 | :--- | :--- |
 | **Primary Languages** | Python, C |
 | **Scripting/Environments** | Batch |
-| **[Other Interests]** | [You can add hobbies or other interests here if you like!] |
+| **Other Interests** | Football/soccer and sometimes cricket |
 
 ## 🚀 Installation & Usage (How to Interact)
 
@@ -37,8 +37,8 @@ If you'd like to collaborate or interact with this unit:
 | Platform | Handle |
 | :--- | :--- |
 | **Discord** | **.beastlegend** |
-| **GitHub** | [Your GitHub Profile URL (Highly Recommended)] |
-| **Email** | [Your Best Contact Email (Recommended)] |
+| **GitHub** | **https://github.com/Xact1fy** |
+| **Email** | **Maxispog2022@gmail.com** |
 
 ## 📜 License (Terms of Interaction)
 
@@ -50,4 +50,4 @@ This human is operating under the **FRIENDLY-CODE 1.0 License**.
 
 ---
 
-Would you like me to fill in the bracketed placeholders with suggested general items, or would you like to add links to your GitHub and email?
+
