@@ -30,7 +30,7 @@ If you'd like to collaborate or interact with this unit:
 
 * **Primary Contact Channel:** Discord
 * **Availability:** I am **free on Discord** and open to connections and conversations there.
-* **Optimal Environment:** I perform best when fueled by [Your Favorite Drink/Snack] and during [Your Best Working Time, e.g., late nights].
+* **Optimal Environment:** I perform best when fueled by Diet coke and during late nights.
 
 ## 📧 Contact
 
