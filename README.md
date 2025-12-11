@@ -22,7 +22,7 @@ The tools and environments I am most comfortable operating in:
 | :--- | :--- |
 | **Primary Languages** | Python, C |
 | **Scripting/Environments** | Batch |
-| **Other Interests** | Football/soccer and sometimes cricket |
+| **Other Interests** | Soccer |
 
 ## 🚀 Installation & Usage (How to Interact)
 
